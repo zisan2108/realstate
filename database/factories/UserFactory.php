@@ -32,7 +32,7 @@ class UserFactory extends Factory
             'address' => fake()->address,
             'photo' => fake()->imageUrl('60','60'),
             'role' => fake()->randomElement(['admin','agent','user']),
-            'ststus' => fake()->randomElement(['active','inactive']),
+            'status' => fake()->randomElement(['active','inactive']),
             'remember_token' => Str::random(10),
         ];
     }
