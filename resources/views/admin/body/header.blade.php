@@ -12,7 +12,7 @@
             </div>
         </form>
         <ul class="navbar-nav">
-            <li class="nav-item dropdown">
+            {{-- <li class="nav-item dropdown">
                 <a class="nav-link dropdown-toggle" href="#" id="languageDropdown" role="button"
                     data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                     <i class="flag-icon flag-icon-us mt-1" title="us"></i> <span
@@ -31,7 +31,7 @@
                     <a href="javascript:;" class="dropdown-item py-2"><i class="flag-icon flag-icon-es"
                             title="es" id="es"></i> <span class="ms-1"> Spanish </span></a>
                 </div>
-            </li>
+            </li> --}}
             <li class="nav-item dropdown">
                 <a class="nav-link dropdown-toggle" href="#" id="appsDropdown" role="button"
                     data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
